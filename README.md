@@ -17,4 +17,4 @@ Para acessar calculadora IMC [clique aqui](https://soarescrf.github.io/calculado
 
 ## Possíveis atualizações
 
-- Responsividade para algumas telas menores
+- Responsividade para telas menores
