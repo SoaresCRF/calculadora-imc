@@ -15,6 +15,6 @@ Para acessar calculadora IMC [clique aqui](https://soarescrf.github.io/calculado
 - Tabela informativa
 
 
-## Possíveis updates
+## Possíveis atualizações
 
 - Responsividade para mobile
