@@ -10,6 +10,11 @@ Para acessar calculadora IMC [clique aqui](https://soarescrf.github.io/calculado
 
 ## Funcionalidades
 
-- Responsivo
+- Responsivo para desktop
 - Feedback visual imediato conforme alterações
 - Tabela informativa
+
+
+## Possíveis updates
+
+- Responsividade para mobile
