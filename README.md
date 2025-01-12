@@ -12,4 +12,4 @@ Para acessar calculadora IMC [clique aqui](https://soarescrf.github.io/calculado
 
 - Responsivo para múltiplas telas
 - Feedback visual imediato conforme alterações
-- Tabela informativa.
+- Tabela informativa
